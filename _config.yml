@@ -1,0 +1,10 @@
+# Site settings
+title: Praqma's Milestone Generator
+tag_text: To Generate useful to links - and then copy'n'paste into meeting agendas
+description:
+baseurl: /milestone
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+exclude: ["README.md"]
